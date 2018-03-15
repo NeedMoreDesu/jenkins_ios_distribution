@@ -1,6 +1,6 @@
 This is configurations with a number of preset things for building iOS Enterprise apps & distribute them via QR code or internet link, with slackbot integration.
 
-In is meant to be run on macOS host.
+It is meant to be run on macOS host.
 
 0. Download&Install Jenkins, Xcode, qrencode.
 1. Run `install_script` from root folder. !WARNING! it will erase all your previous jenkins configurations, so if you want to save them, copy /Users/Shared/Jenkins somewhere.
@@ -17,6 +17,12 @@ In is meant to be run on macOS host.
 7.2 You may want to setup webhook with your git system (it calls your url when someone pushes to master, triggering build)
 8. Your project should look like on the pictures (grayed out team because confidentiality):
 
+Target -> General:
+
 ![Target -> General](01.png)
 
+Target -> Build Settings:
+
 ![Target -> Build Settings](02.png)
+
+Enjoy :)
