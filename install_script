@@ -1,0 +1,20 @@
+#!/bin/sh
+
+set -x
+
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+
+sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
+
+sudo rm -rf /Users/Shared/Jenkins
+
+cp -R ${DIR}/Library /
+cp -R ${DIR}/Users /
+
+sudo chown -R jenkins:jenkins /Users/Shared/Jenkins
+sudo chmod -R 755 /Users/Shared/Jenkins
+
+open /Library/Preferences/org.jenkins-ci.plist
+open /Users/Shared/Jenkins/Library/Keychains/login.keychain-db
+
+sudo su - jenkins

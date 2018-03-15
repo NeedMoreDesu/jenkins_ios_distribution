@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: michaelbar
+Build-Jdk: 1.7.0_25
+Extension-Name: kpp-management-plugin
+Specification-Title: This Jenkins plugin integrates a keychains and pr
+ ovisioning profiles managment for iOS and OSX projects build on a mac.
+Implementation-Title: kpp-management-plugin
+Implementation-Version: 1.0.0
+Plugin-Class: com.sic.plugins.kpp.KPPPlugin
+Group-Id: sic.software
+Short-Name: kpp-management-plugin
+Long-Name: Keychains and Provisioning Profiles Management
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Keychains+and+Provisio
+ ning+Profiles+Plugin
+Plugin-Version: 1.0.0
+Hudson-Version: 1.509.2
+Jenkins-Version: 1.509.2
+Plugin-Developers: Michael Bär:michaelb:michael.baer@sic-software.com
+

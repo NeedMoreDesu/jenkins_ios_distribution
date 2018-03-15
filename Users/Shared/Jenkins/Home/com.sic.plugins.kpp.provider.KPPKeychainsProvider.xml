@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.sic.plugins.kpp.provider.KPPKeychainsProvider plugin="kpp-management-plugin@1.0.0">
+  <defaultConfigXmlFileName>com.sic.plugins.kpp.provider.KPPKeychainsProvider.xml</defaultConfigXmlFileName>
+  <keychains/>
+</com.sic.plugins.kpp.provider.KPPKeychainsProvider>

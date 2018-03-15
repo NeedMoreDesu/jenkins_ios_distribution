@@ -1,0 +1,169 @@
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 494.33 starting.
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 6075DB78-F468-4B8A-ACD8-20713ACAFD69 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device A03CE5C7-550B-4994-A146-16D77F9D973B encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 0F74C04F-B87E-4D30-959B-160CCDDB6D50 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 424E01B7-BEAA-477A-98EC-9FB0F059B90C encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 21C3810E-E29E-4F56-9A87-E7F015A579D3 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:50 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device BAFF88D3-AB42-4BCE-B4E6-4374546F86F1 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 2A467F88-8E54-458A-8527-D6CC78101ACE encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device CD585268-E166-4098-84BF-F081EFE3C124 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 9854C8D8-F44D-4402-A67D-47F269CA2837 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 72028B83-4265-4B5D-9073-DCCAC39A0BC2 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 79ED37DF-BB0A-446B-AD8D-AABEE35827BC encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 7D001A5E-0505-4C86-92A8-4352C8CD9726 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:51 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device FE02645D-192C-45A4-9FF1-F196A5C45A39 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 372614EC-007D-4E11-8310-99C268F8C739 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device C27B9A0F-0DC0-4C50-9CD6-296E6F19BFD0 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 7707120C-5E9A-40DD-A209-A6537F1D993F encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device E86A2111-77DC-4CE0-BEB9-A18E83B299E5 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device ED20415A-071E-42D3-9546-4B2D9FDA8438 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device ED1EC18B-E807-4F7C-AE0E-630BC71B0C33 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 3D519080-8420-4E34-8BCA-BEB9819F982C encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device B50F984E-F59E-4B4A-9547-4E331DE6F031 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device E5EECC11-89FB-44F6-B5C1-B9F70339F405 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 50DA86B7-5145-4DD0-8DDF-58523D5D3F63 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:52 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 58A71ABD-8243-4C1D-ADCA-E8AEF8961E85 encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:53 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device BD98A220-71E6-4C7D-B25A-90F10585270F encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:53 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device BFF2B5D8-AD1F-49D7-975F-2BB0555C4B5A encountered in creation state at launch.  The device will be re-created.
+Mar  1 17:27:53 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 2F3819B3-D56C-42F4-A3EB-38A1CD5E3F1C encountered in creation state at launch.  The device will be re-created.
+Mar  2 16:14:14 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 49C78112-D4D9-4BE3-ACCE-0FAF4F945C9B encountered in creation state at launch.  The device will be re-created.
+Mar  2 16:14:14 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device D49EBA0D-2345-4468-81B6-2C4A9F387ABE encountered in creation state at launch.  The device will be re-created.
+Mar  2 16:14:14 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 101BE86B-43DA-4458-A313-B0EA5B647F03 encountered in creation state at launch.  The device will be re-created.
+Mar  2 16:14:14 OHORISHII-MAC CoreSimulatorService[90393] <Warning>: Device 2FDAEFAE-0039-42B4-A749-308E45E784DC encountered in creation state at launch.  The device will be re-created.
+Mar  2 16:14:15 OHORISHII-MAC com.apple.ibtool[19008] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:14:15 OHORISHII-MAC com.apple.ibtool[19007] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:14:15 OHORISHII-MAC com.apple.ibtool[19006] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:14:15 OHORISHII-MAC com.apple.ibtool[19009] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:17:03 OHORISHII-MAC com.apple.ibtool[19987] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:17:03 OHORISHII-MAC com.apple.ibtool[19984] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:17:03 OHORISHII-MAC com.apple.ibtool[19985] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 16:17:04 OHORISHII-MAC com.apple.ibtool[19986] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:05:17 OHORISHII-MAC com.apple.ibtool[23097] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:05:17 OHORISHII-MAC com.apple.ibtool[23098] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:05:17 OHORISHII-MAC com.apple.ibtool[23100] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:05:18 OHORISHII-MAC com.apple.ibtool[23099] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:13:03 OHORISHII-MAC com.apple.ibtool[25832] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:13:03 OHORISHII-MAC com.apple.ibtool[25834] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:13:03 OHORISHII-MAC com.apple.ibtool[25833] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:13:04 OHORISHII-MAC com.apple.ibtool[25835] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:20:57 OHORISHII-MAC com.apple.ibtool[28235] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:20:57 OHORISHII-MAC com.apple.ibtool[28238] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:20:57 OHORISHII-MAC com.apple.ibtool[28237] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:20:57 OHORISHII-MAC com.apple.ibtool[28236] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:30:57 OHORISHII-MAC com.apple.ibtool[30769] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:30:57 OHORISHII-MAC com.apple.ibtool[30768] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:30:57 OHORISHII-MAC com.apple.ibtool[30767] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  2 17:30:57 OHORISHII-MAC com.apple.ibtool[30770] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 14:41:56 OHORISHII-MAC com.apple.ibtool[91244] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 14:41:56 OHORISHII-MAC com.apple.ibtool[91245] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 14:41:56 OHORISHII-MAC com.apple.ibtool[91243] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 14:41:57 OHORISHII-MAC com.apple.ibtool[91246] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:34:53 OHORISHII-MAC com.apple.ibtool[94255] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:34:53 OHORISHII-MAC com.apple.ibtool[94254] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:34:53 OHORISHII-MAC com.apple.ibtool[94256] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:34:54 OHORISHII-MAC com.apple.ibtool[94257] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:58:28 OHORISHII-MAC com.apple.ibtool[96861] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:58:28 OHORISHII-MAC com.apple.ibtool[96859] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:58:28 OHORISHII-MAC com.apple.ibtool[96860] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 15:58:29 OHORISHII-MAC com.apple.ibtool[96862] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:19:21 OHORISHII-MAC com.apple.ibtool[99645] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:19:21 OHORISHII-MAC com.apple.ibtool[99644] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:19:21 OHORISHII-MAC com.apple.ibtool[99643] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:19:21 OHORISHII-MAC com.apple.ibtool[99646] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:22:40 OHORISHII-MAC com.apple.ibtool[2223] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:22:40 OHORISHII-MAC com.apple.ibtool[2224] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:22:40 OHORISHII-MAC com.apple.ibtool[2225] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:22:40 OHORISHII-MAC com.apple.ibtool[2226] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:43:39 OHORISHII-MAC com.apple.ibtool[4814] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:43:39 OHORISHII-MAC com.apple.ibtool[4812] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:43:39 OHORISHII-MAC com.apple.ibtool[4813] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:43:39 OHORISHII-MAC com.apple.ibtool[4815] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:49:18 OHORISHII-MAC com.apple.ibtool[7203] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:49:18 OHORISHII-MAC com.apple.ibtool[7205] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:49:18 OHORISHII-MAC com.apple.ibtool[7204] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:49:18 OHORISHII-MAC com.apple.ibtool[7202] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:55:03 OHORISHII-MAC com.apple.ibtool[9577] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:55:03 OHORISHII-MAC com.apple.ibtool[9576] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:55:03 OHORISHII-MAC com.apple.ibtool[9575] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:55:03 OHORISHII-MAC com.apple.ibtool[9578] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:59:52 OHORISHII-MAC com.apple.ibtool[11961] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:59:52 OHORISHII-MAC com.apple.ibtool[11963] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:59:52 OHORISHII-MAC com.apple.ibtool[11962] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 16:59:52 OHORISHII-MAC com.apple.ibtool[11964] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:12:04 OHORISHII-MAC com.apple.ibtool[14440] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:12:04 OHORISHII-MAC com.apple.ibtool[14442] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:12:04 OHORISHII-MAC com.apple.ibtool[14441] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:12:05 OHORISHII-MAC com.apple.ibtool[14443] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:28:31 OHORISHII-MAC com.apple.ibtool[17062] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:28:31 OHORISHII-MAC com.apple.ibtool[17064] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:28:31 OHORISHII-MAC com.apple.ibtool[17061] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  5 17:28:32 OHORISHII-MAC com.apple.ibtool[17063] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 12:36:42 OHORISHII-MAC com.apple.ibtool[36364] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 12:36:42 OHORISHII-MAC com.apple.ibtool[36363] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 12:36:42 OHORISHII-MAC com.apple.ibtool[36365] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 12:36:43 OHORISHII-MAC com.apple.ibtool[36366] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:06:46 OHORISHII-MAC com.apple.ibtool[39122] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:06:46 OHORISHII-MAC com.apple.ibtool[39121] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:06:46 OHORISHII-MAC com.apple.ibtool[39123] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:06:47 OHORISHII-MAC com.apple.ibtool[39124] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:12:59 OHORISHII-MAC com.apple.ibtool[41624] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:12:59 OHORISHII-MAC com.apple.ibtool[41622] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:12:59 OHORISHII-MAC com.apple.ibtool[41623] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:12:59 OHORISHII-MAC com.apple.ibtool[41625] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:15:35 OHORISHII-MAC com.apple.ibtool[43948] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:15:35 OHORISHII-MAC com.apple.ibtool[43949] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:15:35 OHORISHII-MAC com.apple.ibtool[43947] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:15:35 OHORISHII-MAC com.apple.ibtool[43950] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:27:57 OHORISHII-MAC com.apple.ibtool[46399] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:27:57 OHORISHII-MAC com.apple.ibtool[46400] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:27:57 OHORISHII-MAC com.apple.ibtool[46401] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:27:57 OHORISHII-MAC com.apple.ibtool[46402] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:37:37 OHORISHII-MAC com.apple.ibtool[48823] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:37:37 OHORISHII-MAC com.apple.ibtool[48824] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:37:37 OHORISHII-MAC com.apple.ibtool[48822] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:37:37 OHORISHII-MAC com.apple.ibtool[48825] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:42:20 OHORISHII-MAC com.apple.ibtool[51191] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:42:20 OHORISHII-MAC com.apple.ibtool[51188] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:42:20 OHORISHII-MAC com.apple.ibtool[51190] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:42:20 OHORISHII-MAC com.apple.ibtool[51189] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:44:42 OHORISHII-MAC com.apple.ibtool[51757] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:44:42 OHORISHII-MAC com.apple.ibtool[51758] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:44:42 OHORISHII-MAC com.apple.ibtool[51756] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:44:42 OHORISHII-MAC com.apple.ibtool[51759] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:56:08 OHORISHII-MAC com.apple.ibtool[54611] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:56:08 OHORISHII-MAC com.apple.ibtool[54613] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:56:08 OHORISHII-MAC com.apple.ibtool[54612] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:56:09 OHORISHII-MAC com.apple.ibtool[54614] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:58:10 OHORISHII-MAC com.apple.ibtool[54627] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:58:11 OHORISHII-MAC com.apple.ibtool[56927] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:58:11 OHORISHII-MAC com.apple.ibtool[56928] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 13:58:12 OHORISHII-MAC com.apple.ibtool[56929] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 14:04:18 OHORISHII-MAC com.apple.ibtool[58027] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 14:04:18 OHORISHII-MAC com.apple.ibtool[58025] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 14:04:18 OHORISHII-MAC com.apple.ibtool[58026] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar  6 14:04:18 OHORISHII-MAC com.apple.ibtool[58028] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 14:25:20 CHC-MACMINI CoreSimulatorService[37111] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 494.33 starting.
+Mar 14 14:25:54 CHC-MACMINI com.apple.ibtool[37506] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 14:25:54 CHC-MACMINI com.apple.ibtool[37507] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 14:25:54 CHC-MACMINI com.apple.ibtool[37505] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 14:25:54 CHC-MACMINI com.apple.ibtool[37509] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:05:41 CHC-MACMINI com.apple.ibtool[41531] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:05:41 CHC-MACMINI com.apple.ibtool[41533] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:05:41 CHC-MACMINI com.apple.ibtool[41532] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:05:41 CHC-MACMINI com.apple.ibtool[41530] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:08:46 CHC-MACMINI com.apple.ibtool[43847] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:08:46 CHC-MACMINI com.apple.ibtool[43850] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:08:46 CHC-MACMINI com.apple.ibtool[43846] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:08:46 CHC-MACMINI com.apple.ibtool[43848] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:49:56 CHC-MACMINI com.apple.ibtool[46590] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:49:56 CHC-MACMINI com.apple.ibtool[46591] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:49:56 CHC-MACMINI com.apple.ibtool[46592] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 15:49:56 CHC-MACMINI com.apple.ibtool[46593] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:18:01 CHC-MACMINI com.apple.ibtool[49405] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:18:01 CHC-MACMINI com.apple.ibtool[49403] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:18:01 CHC-MACMINI com.apple.ibtool[49404] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:18:02 CHC-MACMINI com.apple.ibtool[49407] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:21:54 CHC-MACMINI com.apple.ibtool[51727] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:21:54 CHC-MACMINI com.apple.ibtool[51728] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:21:55 CHC-MACMINI com.apple.ibtool[51729] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.
+Mar 14 16:21:55 CHC-MACMINI com.apple.ibtool[51730] <Notice>: Spawning processes in an unbooted state without setting kSimDeviceSpawnStandalone is deprecated.

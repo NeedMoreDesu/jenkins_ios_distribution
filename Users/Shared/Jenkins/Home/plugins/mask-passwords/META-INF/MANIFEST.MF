@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: nenashev
+Build-Jdk: 1.7.0_75
+Extension-Name: mask-passwords
+Specification-Title: Masks passwords that may appear in the console
+Implementation-Title: mask-passwords
+Implementation-Version: 2.10.1
+Group-Id: org.jenkins-ci.plugins
+Short-Name: mask-passwords
+Long-Name: Mask Passwords Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Mask+Passwords+Plugin
+Plugin-Version: 2.10.1
+Hudson-Version: 1.609.3
+Jenkins-Version: 1.609.3
+Plugin-Developers: Romain Seguy:rseguy:romain.seguy@gmail.com
+

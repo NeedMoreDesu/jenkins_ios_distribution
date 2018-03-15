@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='xcode-plugin' version='2.0.0'><l:dependency name='Xcode integration' groupId='org.jenkins-ci.plugins' artifactId='xcode-plugin' version='2.0.0' url='https://wiki.jenkins-ci.org/display/JENKINS/Xcode+Plugin'><l:description>This plugin adds the ability to call Xcode command line tools to automate build and packaging iOS applications (iPhone, iPad, ...).</l:description><l:license name='MIT' url='LICENSE.txt'/></l:dependency></l:dependencies>
